@@ -196,7 +196,6 @@ class _QuranWidgetState extends State<QuranWidget>
                       if (selectedChapter == null) {
                         return Container();
                       }
-
                       var item = store.listAya[index];
                       item.getTranslations.execute();
                       item.getBookmark.execute();
@@ -233,7 +232,7 @@ class _QuranWidgetState extends State<QuranWidget>
                         size: 18,
                       ),
                       title: Text(
-                        "Play Murrotal",
+                        "Play",
                         style: TextStyle(fontSize: 15),
                       ),
                       onTap: () => bottomPanel(),
