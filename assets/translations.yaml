@@ -1,0 +1,46 @@
+- id: 8034424dac8f44cb997db6b6ddc62147
+  tableName: en_sahih
+  languageCode: en
+  language: English
+  name: Saheeh International
+  translator: Saheeh International
+  type: builtIn
+- id: 1f0492c5d1fd42c1950d76ca74ddc0be
+  tableName: id_indonesian
+  languageCode: id
+  language: Indonesia
+  name: Bahasa Indonesia
+  translator: Indonesian Ministry of Religious Affairs
+  type: builtIn
+- id: 83506aba0cfa4d8f9486854e1f83775b
+  tableName: es_garcia
+  uri: http://tanzil.net/trans/?transID=es.garcia&type=xml
+  languageCode: es
+  language: Spanish
+  name: Garcia
+  translator: Muhammad Isa García
+  type: download
+- id: 9873178e49fb4681a2681c81845e749c
+  tableName: sqnahi
+  uri: http://tanzil.net/trans/sq.nahi&type=xml
+  languageCode: sq
+  language: Albanian
+  name: Efendi Nahi
+  translator: Hasan Efendi Nahi
+  type: download
+- id: a81152303f5147f6873487ffc603fe75
+  tableName: de_aburida
+  uri: http://tanzil.net/trans/de.aburida&type=xml
+  languageCode: de
+  language: German
+  name: Abu Rida
+  translator: Abu Rida Muhammad ibn Ahmad ibn Rassoul
+  type: download
+- id: 3622b2a1a74740c7bff5cf44c69d177a
+  tableName: hi_farooq
+  uri: http://tanzil.net/trans/hi.farooq&type=xml
+  languageCode: hi
+  language: Hindi
+  name: फ़ारूक़ ख़ान & अहमद
+  translator: Muhammad Farooq Khan and Muhammad Ahmed
+  type: download
