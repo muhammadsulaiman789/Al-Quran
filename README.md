@@ -1,3 +1,3 @@
 # quran_app
 
-Al-Quran untuk aplikai wakif BWA
+Al-Quran untuk aplikasi wakif BWA
