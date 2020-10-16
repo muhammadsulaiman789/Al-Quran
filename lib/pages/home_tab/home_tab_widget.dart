@@ -54,7 +54,7 @@ class _HomeTabWidgetState extends State<HomeTabWidget>
           new Padding(
             padding: EdgeInsets.only(left: 10.0),
           ),
-          Text('Pergi ke Surah'),
+          Text('Pergi ke Sura'),
         ],
       ),
       content: Column(
